@@ -34,3 +34,9 @@ Solved Problems in this repository :
 			LONG	Genome Assembly as Shortest Superstring
 
 			PPER	Partial Permutations
+			
+			DBRU	Constructing A De-Bruin Graph
+			
+			CORR	Error Correction in Reads
+			
+			PCOV	Genome Assembly with Perfect Coverage
